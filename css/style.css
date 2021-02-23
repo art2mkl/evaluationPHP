@@ -1,0 +1,9 @@
+.accueil {
+    background: linear-gradient(to right,rgba(255, 255, 255, 0.8),rgba(255, 255, 255, 0.8)), url('https://images.unsplash.com/photo-1566796195789-d5a59f97235b?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2thdGV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60') center / cover;
+    height:100vh;
+}
+.image {
+   width:6rem;
+   height:4rem;
+   object-fit: cover;
+}
